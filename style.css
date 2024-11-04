@@ -35,6 +35,13 @@ html:hover .spider {
   position: relative;
   border-radius: 50%;
 }
+.spider .hat {
+  width: 100px;
+  height: 100px;
+  background: #000;
+  border-radius: 50%;
+  top: 50px
+}
 
 .spider .body .eye {
   width: 33px;
